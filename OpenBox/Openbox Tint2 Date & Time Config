@@ -1,0 +1,4 @@
+Openbox Tint2 Date & Time Config
+
+First Line: %I:%M %p
+Second Line %B %_d %Y

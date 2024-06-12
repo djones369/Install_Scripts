@@ -1,0 +1,61 @@
+#!/bin/bash
+### My Post Install Install #!++ Script###
+
+###Install GTK Themes and Icons###
+
+sudo apt install papirus-icon-theme -y
+sudo apt install arc-theme -y
+sudo apt install adapta-gtk-theme -y
+sudo apt install numix-gtk-theme -y
+sudo apt install numix-gtk-theme-circle -y
+sudo apt install greybird-gtk-theme
+sudo apt install materia-gtk-theme
+sudo apt install sugar-icon-theme -y
+sudo apt install numix-icon-theme -y
+
+### Install Gnome Software, Flatpak & Flathub repository###
+sudo apt install flatpak
+sudo apt install gnome-software -y
+sudo apt install gnome-software-plugin-flatpak -y
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+
+###Plank Dock###
+sudo apt install plank -y
+
+####Debian Applications###
+
+sudo apt install telegram-desktop -y
+sudo apt install gimp -y
+sudo apt install inkscape -y
+sudo apt install telegram-desktop -y
+sudo apt install audacity -y
+sudo apt install celluloid -y
+sudo apt install cheese -y
+sudo apt install handbrake -y
+sudo apt install mixxx -y
+sudo apt install obs-studio -y
+sudo apt install opensssh-server -y
+sudo apt install youtube-dl -y
+sudo apt install simplescreenrecorder -y
+sudo apt install gnome-sound-recorder -y
+sudo apt install vlc -y
+sudo apt install blender -y
+sudo apt install arduino -y
+sudo apt install scribus -y
+sudo apt install filezilla -y
+sudo apt install hexchat -y
+sudo apt install mumble -y
+sudo apt install polari -y
+sudo apt install remmina -y
+sudo apt install sparkleshare -y
+sudo apt install syncthing-gtk -y
+sudo apt install transmission -y
+sudo apt install wireshark -y
+sudo apt install calibre -y
+sudo apt install ghostwriter -y
+sudo apt install evolution -y
+sudo apt install clamtk -y
+sudo apt install deja-dup -y
+sudo apt install keepassxc -y
+sudo apt install zim -y

@@ -1,0 +1,5 @@
+gsettings set org.gnome.desktop.interface color-scheme prefer-dark
+
+
+gtk-color-scheme: prefer-dark and gtk-theme: Adwaita-dark
+

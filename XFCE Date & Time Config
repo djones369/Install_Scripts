@@ -1,0 +1,6 @@
+XFCE Date & Time Config
+
+     %b %_d %Y %I:%M %p     
+OR
+
+%a, %b %_d, %Y %H:%M %p 
