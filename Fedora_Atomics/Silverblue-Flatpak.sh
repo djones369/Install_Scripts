@@ -62,4 +62,5 @@ flatpak install flathub com.raggesilver.BlackBox -y
 flatpak install flathub com.leinardi.gwe -y
 flatpak install flathub io.github.prateekmedia.appimagepool -y
 flatpak install flathub org.gnome.DejaDup -y
+flatpak install flathub app.devsuite.Ptyxis -y
 
