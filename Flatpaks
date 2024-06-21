@@ -95,3 +95,4 @@ flatpak install flathub org.flatpak.qtdemo -y
 flatpak install flathub com.blockstream.Green -y
 flatpak install flathub io.github.shiftey.Desktop -y
 flatpak install flathub com.github.Murmele.Gittyup -y
+flatpak install flathub app.devsuite.Ptyxis -y
